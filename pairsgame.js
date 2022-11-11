@@ -68,7 +68,7 @@ function pararTimer() {
 let contador = 0;
 let primeraCarta = "";
 let segundaCarta = "";
-let numeroVidas = 5;
+let numeroVidas = 10;
 let numeroPuntos = 0;
 let timerPulsado = false;
 
