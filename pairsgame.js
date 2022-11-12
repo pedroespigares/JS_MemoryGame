@@ -141,4 +141,10 @@ cartas.forEach((carta) => {
       pararTimer();
     }
   });
+})
+
+restart = document.getElementById("restart");
+restart.addEventListener("click", () => {
+  location.reload();
 });
+;
